@@ -1,0 +1,21 @@
+#rock{
+
+    background-color: rgb(50, 50, 50);
+    border: 0;
+    color: aliceblue;
+    border-radius: 15px;
+}
+#paper{
+
+    background-color: rgb(50, 50, 50);
+    border: 0;
+    color: aliceblue;
+    border-radius: 15px;
+}
+#scissors{
+
+    background-color: rgb(50, 50, 50);
+    border: 0;
+    color: aliceblue;
+    border-radius: 15px;
+}
